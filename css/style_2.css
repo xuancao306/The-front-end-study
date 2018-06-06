@@ -1,0 +1,17 @@
+.left-bar{
+    background-color: #00BFFF;
+    position:absolute;
+    left:0;
+    width: 200px;
+    height: 100%;
+}
+.left-bar h1{
+    color:white;
+    text-align: center;
+}
+.right-bar{
+    position:absolute;
+    left: 210px;
+    top: 10px;
+    height: 100%;
+}
